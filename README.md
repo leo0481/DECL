@@ -1,4 +1,4 @@
-## Enhance Disentanglement of Popularity Bias for Recommendation with Contrastive Learning
+## Enhancing Disentanglement of Popularity Bias for Recommendation with Contrastive Learning
 
 ### Dataset
 We provide three datasets: Ciao, LastFM, and Movielens-10M
